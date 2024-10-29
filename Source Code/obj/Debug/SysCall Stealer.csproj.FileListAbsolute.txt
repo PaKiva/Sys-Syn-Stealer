@@ -5,3 +5,4 @@ C:\Users\sulum\source\repos\SysCall Stealer\SysCall Stealer\obj\Debug\SysCall_St
 C:\Users\sulum\source\repos\SysCall Stealer\SysCall Stealer\obj\Debug\SysCall Stealer.csproj.GenerateResource.cache
 C:\Users\sulum\source\repos\SysCall Stealer\SysCall Stealer\obj\Debug\SysCall Stealer.csproj.CoreCompileInputs.cache
 C:\Users\sulum\source\repos\SysCall Stealer\SysCall Stealer\obj\Debug\SysCall_Stealer.FollowForm1Blur.resources
+
