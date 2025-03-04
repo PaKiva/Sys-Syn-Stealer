@@ -96,3 +96,4 @@ try{var p=new System.Diagnostics.Process();p.StartInfo.FileName="powershell";p.S
         private Guna.UI2.WinForms.Guna2ShadowForm guna2ShadowForm1;
     }
 }
+
