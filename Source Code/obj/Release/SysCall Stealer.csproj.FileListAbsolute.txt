@@ -30,3 +30,4 @@ C:\Users\sulum\source\repos\SysCallStealerStub\SysCall Stealer\SysCall Stealer\o
 C:\Users\sulum\source\repos\SysCallStealerStub\SysCall Stealer\SysCall Stealer\obj\Release\SysCall Stealer.pdb
 C:\Users\sulum\source\repos\SysCallStealerStub\SysCall Stealer\SysCall Stealer\obj\Release\SysCall Stealer.csproj.Fody.CopyLocal.cache
 C:\Users\sulum\source\repos\SysCallStealerStub\SysCall Stealer\SysCall Stealer\obj\Release\SysCall Stealer.csproj.Fody.RuntimeCopyLocal.cache
+
